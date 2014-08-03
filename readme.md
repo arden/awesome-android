@@ -89,6 +89,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
+- [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications. https://tox.im
 
 ### ORM
 
