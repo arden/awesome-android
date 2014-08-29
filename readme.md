@@ -145,6 +145,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources] (http://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
+- [Android open project] (http://android-arsenal.com) - Android open projects.
 
 ## Development Alternatives
 
